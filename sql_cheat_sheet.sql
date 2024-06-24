@@ -1,4 +1,4 @@
-
+-- MD ARAFAT KOYES 
 -- SQL Cheat Sheet: Top 50 SQL Commands and Their Uses
 
 -- 1. CREATE DATABASE: Creates a new database
